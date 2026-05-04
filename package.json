@@ -1,0 +1,26 @@
+{
+  "name": "odin-hash-map",
+  "version": "1.0.0",
+  "description": "odin project hash map assignment",
+  "homepage": "https://github.com/zaidkhajah/odin-hash-map#readme",
+  "bugs": {
+    "url": "https://github.com/zaidkhajah/odin-hash-map/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaidkhajah/odin-hash-map.git"
+  },
+  "license": "ISC",
+  "author": "zaid khajah",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^30.3.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.3"
+  }
+}
